@@ -21,7 +21,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_libdir		/usr/%{_lib}/bellagio
 
 %description
-Vorbis component is a audio decoder component for Bellagio OpenMAX IL
+Vorbis component is an audio decoder component for Bellagio OpenMAX IL
 that uses libvorbis for decoding.
 
 %description -l pl.UTF-8
